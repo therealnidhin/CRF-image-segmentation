@@ -1,0 +1,28 @@
+<annotation>
+	<folder>OXIIIT</folder>
+	<filename>suit-3.jpg</filename>
+	<source>
+		<database>OXFORD-IIIT Pet Dataset</database>
+		<annotation>OXIIIT</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>322</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suit</name>
+		<pose>Frontal</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>109</ymin>
+			<xmax>321</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+		<difficult>0</difficult>
+	</object>
+</annotation>

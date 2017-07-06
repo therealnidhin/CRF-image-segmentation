@@ -1,0 +1,16 @@
+suit-1 3
+suit-2 3
+suit-3 3
+suit-4 3
+suit-5 3
+skirt-1 2
+skirt-2 2
+skirt-3 2
+skirt-4 2
+skirt-5 2
+shirt-1 1
+shirt-2 1
+shirt-3 1
+shirt-4 1
+shirt-5 1
+
